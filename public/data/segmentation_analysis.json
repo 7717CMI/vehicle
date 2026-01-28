@@ -1,0 +1,14 @@
+{
+  "India": {
+    "By Vehicle Type": {
+      "Commercial Vehicles": {
+        "Light Commercial Vehicles (LCVs)": {},
+        "Heavy Commercial Vehicles (HCVs)": {},
+        "Two-Wheelers": {}
+      }
+    },
+    "By Material Recovered": {},
+    "By Application": {},
+    "By Scrapping Method": {}
+  }
+}
